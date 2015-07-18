@@ -19,6 +19,6 @@ Cons:
 - usually very expensive (in terms of time complexity)
 
 Examples:
-- linear (sequential) search
-- 2-sum problem
-- factors of a given number
+- [linear (sequential) search](code/linear-search.cpp)
+- [2-sum problem](code/2-sum.cpp)
+- [factors of a given number](code/number-factors.cpp)
