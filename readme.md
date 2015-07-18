@@ -7,4 +7,4 @@ This repository is for my personal use, so you probably will not find it any use
 
 ## Notes
 
-1. [Designing algorithms](tree/master/designing-algorithms)
+1. [Designing algorithms](designing-algorithms)
