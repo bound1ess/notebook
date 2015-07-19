@@ -37,3 +37,13 @@ Examples:
 - [merge sort](code/merge-sort.cpp)
 - [Fibonacci sequence](code/fib.cpp)
 - [quicksort](code/quicksort.cpp)
+
+## Backtracking
+
+This paradigm is used to solve problems with a large search space by systematically trying and eliminating all possibilities that cannot be completed to a correct solution.
+
+
+Based on recursive DFS.
+
+Examples:
+- [find path through a maze](code/maze.cpp)
