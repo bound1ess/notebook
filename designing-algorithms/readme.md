@@ -35,7 +35,6 @@ to overlap
 
 Examples:
 - [merge sort](code/merge-sort.cpp)
-- [Fibonacci sequence](code/fib.cpp)
 - [quicksort](code/quicksort.cpp)
 
 ## Backtracking
@@ -62,4 +61,7 @@ Examples:
 
 ## Dynamic Programming (DP)
 
-D&C + memoization, details later.
+D&C + memoization, basically.
+
+Examples:
+- [Fibonacci sequence](code/fib.cpp)
