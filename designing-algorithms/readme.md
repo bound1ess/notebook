@@ -35,3 +35,4 @@ to overlap
 
 Examples:
 - [merge sort](code/merge-sort.cpp)
+- [Fibonacci sequence](code/fib.cpp)
