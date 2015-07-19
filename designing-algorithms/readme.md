@@ -47,3 +47,14 @@ Based on recursive DFS.
 
 Examples:
 - [find path through a maze](code/maze.cpp)
+
+## Greedy
+
+There are two basic ingredients every greedy algorithm has in common:
+
+- *Greedy Choice Property*: from a local optimum we can reach a global optimum, without having to reconsider the decisions already taken.
+
+- *Optimal Substructure Property*: the optimal solution to a problem can be determined from the optimal solutions to its subproblems.
+
+Examples:
+- [counting money](code/money.cpp)
