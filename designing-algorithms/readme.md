@@ -8,7 +8,7 @@ An algorithm is a step-by-step procedure for solving a problem.
 A paradigm is a very high level algorithm for solving a class of problems.
 ```
 
-## Brute force approach/paradigm
+## Brute force
 
 Want to find a solution? Try all possible ones!
 
@@ -22,3 +22,16 @@ Examples:
 - [linear (sequential) search](code/linear-search.cpp)
 - [2-sum problem](code/2-sum.cpp)
 - [factors of a given number](code/number-factors.cpp)
+
+## Divide & Conquer
+
+The main idea is breaking given problem into smaller subproblems.
+
+Approach:
+- break the problem into smaller units, they should be all of the same type and do not need
+to overlap
+- keep dividing until we reach trivial/base cases
+- combine all solutions to solve the original problem
+
+Examples:
+- [merge sort](code/merge-sort.cpp)
