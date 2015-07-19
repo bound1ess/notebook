@@ -58,4 +58,8 @@ There are two basic ingredients every greedy algorithm has in common:
 
 Examples:
 - [counting money](code/money.cpp)
-- [Dijkstra's shortest path algorithm](code/dijkstra.cpp)
+- [Dijkstras shortest path algorithm](code/dijkstra.cpp)
+
+## Dynamic Programming (DP)
+
+D&C + memoization, details later.
