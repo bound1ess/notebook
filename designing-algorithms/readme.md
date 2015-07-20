@@ -65,3 +65,10 @@ D&C + memoization, basically.
 
 Examples:
 - [Fibonacci sequence](code/fib.cpp)
+
+## Randomized algorithms
+
+Such an algorithm uses a random number at least once to make a decision.
+
+Examples:
+- [bogosort (not kidding)](code/bogosort.cpp)
