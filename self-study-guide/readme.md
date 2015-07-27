@@ -53,3 +53,17 @@
   - using GPG, public-key authentication for SSH
   - encrypting files, directories and hard disks
 14. Software testing
+15. User experience design
+  - writing usable interfaces in CSS, HTML, JavaScript
+16. Visualization
+17. Parallelism
+  - threads, CUDA, OpenCL, MPI?
+18. Software engineering
+  - understanding of VCSs like Git
+  - tools like GDB, Valgrind
+19. Formal methods
+20. Graphics and simulation
+21. Artificial intelligence
+22. Machine learning
+  - Bayesian networks, clustering and decision-tree learning
+23. Databases
