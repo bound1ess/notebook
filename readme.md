@@ -7,6 +7,7 @@ This repository is for my personal use, so you probably will not find it any use
 
 ## Notes
 
+0. [Books](books)
 1. [Designing algorithms](designing-algorithms)
 2. [Self-study guide](self-study-guide)
 3. [Calculus - derivatives (Math stuff)](calculus-derivatives)
